@@ -1,0 +1,4 @@
+the basic runCSIFormer that was draft them develope to main1 that
+main1_generate_data_visualise_and_train
+this code generate data visualise and train it is the base main all the codes which come later are version of this used to developed 
+generateCSI_CDL_A_to_E3.m is the develop of main1 to generate defferint channel progile cdl from a to E
